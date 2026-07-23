@@ -1,0 +1,16 @@
+ros-jazzy-sick-safetyscanners2-interfaces (1.0.1-1noble) noble; urgency=high
+
+  * Updated maintainer and author information in package.xml
+  * Resolve cmakelists, package and licence issues
+  * Added StatusOverview Service
+  * Contributors: Andrej Pangercic, Christian Eichmann
+
+ -- "Christian Eichmann" <eichmann@fzi.de>  Wed, 06 May 2026 22:00:00 -0000
+
+ros-jazzy-sick-safetyscanners2-interfaces (1.0.0-1noble) noble; urgency=high
+
+  * Initial Release
+
+ -- "Lennart Puck" <puck@fzi.de>  Sun, 10 Jan 2021 23:00:00 -0000
+
+
